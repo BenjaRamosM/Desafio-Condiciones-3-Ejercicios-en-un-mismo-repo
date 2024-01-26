@@ -1,0 +1,25 @@
+.selectores{
+    
+    display: flex;
+    justify-content:space-evenly;
+    padding: 25px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.titulo{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 25px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.botonera{
+    display: flex;
+    justify-content:space-evenly;
+    padding: 25px;
+    flex-direction: row;
+    align-items: center;
+}
+

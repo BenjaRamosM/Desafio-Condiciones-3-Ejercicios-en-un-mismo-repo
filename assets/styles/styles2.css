@@ -1,0 +1,41 @@
+.sticker{
+    width: 20em;
+    height:15em;
+}
+
+.contenedor{
+    
+    display: flex;
+    justify-content:space-around;
+    padding: 25px;
+    flex-direction: row;
+    align-items: center;
+}
+
+.contenedor2{
+    
+    display: flex;
+    justify-content:space-around;
+    padding: 25px;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contenedor3{
+    
+    display: flex;
+    justify-content:space-around;
+    padding: 25px;
+    gap: 20px;
+    flex-direction: column;
+    align-items: center;
+}
+
+.borde{
+    border: 2px solid red; 
+}
+
+.muchos{
+    visibility: hidden;
+}
